@@ -54,23 +54,8 @@ Figure 2. Schoenfeld Residual Plots for Initial Cox PH Model
 
 <img width="492" height="153" alt="image" src="https://github.com/user-attachments/assets/c4703d37-dd90-4440-8469-e8cc8c293939" />
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Table 3. Final Cox PH Model Hazard Ratios
+
+<img width="468" height="259" alt="image" src="https://github.com/user-attachments/assets/ea69a5db-6458-4797-8190-45fe62179e4a" />
+
 
