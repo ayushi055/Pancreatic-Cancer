@@ -42,14 +42,14 @@ Table 1. Demographic and Clinical Characteristics of Participants in Matched and
  <img width="470" height="213" alt="image" src="https://github.com/user-attachments/assets/600436cf-35bf-459d-b7bb-d044388f08b6" />
 
 Figure 1. Kaplan-Meier Curves by Treatment Group
-<img width="468" height="297" alt="image" src="https://github.com/user-attachments/assets/34426152-ee2d-4097-92c6-6ac9ccf9d28c" />
+ <img width="468" height="297" alt="image" src="https://github.com/user-attachments/assets/34426152-ee2d-4097-92c6-6ac9ccf9d28c" />
 
 
 Table 2. Initial Cox PH Model Schoenfeld Test Results
-<img width="391" height="163" alt="image" src="https://github.com/user-attachments/assets/a6dc8a0c-a3b5-40a8-883d-7fdaf2f80fb6" />
+ <img width="391" height="163" alt="image" src="https://github.com/user-attachments/assets/a6dc8a0c-a3b5-40a8-883d-7fdaf2f80fb6" />
 
 Figure 2. Schoenfeld Residual Plots for Initial Cox PH Model
-<img width="492" height="153" alt="image" src="https://github.com/user-attachments/assets/c4703d37-dd90-4440-8469-e8cc8c293939" />
+ <img width="492" height="153" alt="image" src="https://github.com/user-attachments/assets/c4703d37-dd90-4440-8469-e8cc8c293939" />
 
  
 
